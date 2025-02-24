@@ -17,6 +17,20 @@
 
 ---
 
+## 📜 Cursos y Certificaciones  
+📚 A lo largo de mi aprendizaje, he reforzado mis habilidades en **desarrollo web, programación en JavaScript, control de versiones y herramientas de inteligencia artificial** a través de diversos cursos. Algunos de ellos incluyen:  
+
+- ✅ **Lógica de programación: sumérgete en la programación con JavaScript** – [Ver Certificado](https://app.aluracursos.com/user/cyb3r-girl/course/logica-programacion-sumergete-programacion-javascript/certificate)  
+- ✅ **Lógica de programación: explorar funciones y listas** – [Ver Certificado](#)  
+- ✅ **Git y GitHub: repositorio, commit y versiones** – [Ver Certificado](https://app.aluracursos.com/user/cyb3r-girl/course/git-github-repositorio-commit-versiones/certificate)  
+- ✅ **ChatGPT: optimizando la calidad de los resultados** – [Ver Certificado](#)  
+- ✅ **HTML y CSS: ambientes de desarrollo, estructura de archivos y tags** – [Ver Certificado](#)
+- ✅ **HTML y CSS: Clases, Posicionamiento y Flexbox** – [Ver Certificado](#)
+- ✅ **HTML y CSS: header, footer y variables CSS** – [Ver Certificado](#)
+- ✅ **HTML y CSS: trabajando con responsividad y publicación de proyectos** – [Ver Certificado](#)  
+
+---
+
 ## 🚀 **Tecnologías y Lenguajes**
 💡 Estas son algunas de las tecnologías y lenguajes que he aprendido y sigo practicando:
 <p align="center"> <!-- Apache NetBeans --> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" title="Apache NetBeans" alt="Apache NetBeans" width="50"/>&nbsp; <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"/>&nbsp; <!-- HTML --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50"/>&nbsp; <!-- CSS --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50"/>&nbsp; <!-- SQL Server --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50"/>&nbsp; <!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50"/>&nbsp; <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50"/>&nbsp; <!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50"/>&nbsp; <!-- GitHub --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50"/> </p>
@@ -24,8 +38,12 @@
 ---
 
 ## 🎯 **Habilidades Tecnológicas**
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Excel_2013-2019_logo.svg" title="Excel" alt="Excel" width="50px"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50px"/> </p>
-
+🤳🏻 A lo largo de mi aprendizaje, he adquirido habilidades en diversas tecnologías y herramientas que uso con frecuencia:
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" title="Excel" alt="Excel" width="53" height="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-192x256-f7njvutg.png" title="Power BI" alt="Power BI" width="40" height="50"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/022/841/109/non_2x/chatgpt-logo-transparent-background-free-png.png" alt="ChatGPT" width="50" height="50"/>
+</p>
 ---
 
 ## 📊 **Estadísticas de GitHub**
@@ -38,9 +56,8 @@
 ---
 
 ## 🌟 **Proyectos Destacados**
-📌 **[Proyecto 1 - Análisis de Datos](https://github.com/cyb3r-girl/proyecto1)**  
-📌 **[Proyecto 2 - Desarrollo Web](https://github.com/cyb3r-girl/proyecto2)**  
-📌 **[Proyecto 3 - Ciberseguridad](https://github.com/cyb3r-girl/proyecto3)**  
+📌 **[Proyecto 1 - Juego "Adivina el número secreto"](https://github.com/cyb3r-girl/proyecto1)**  
+📌 **[Proyecto 2 - Challenge "Amigo secreto"](https://github.com/cyb3r-girl/proyecto2)**
 
 ---
 
