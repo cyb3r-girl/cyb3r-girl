@@ -38,16 +38,12 @@
 ---
 
 ## 🎯 **Habilidades Tecnológicas**
-🤳🏻 A lo largo de mi aprendizaje, he adquirido habilidades en diversas tecnologías y herramientas que uso con frecuencia:
+🤳🏻 Con el tiempo y la práctica, he adquirido habilidades en diversas tecnologías y herramientas que uso con frecuencia:
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" title="Excel" alt="Excel" width="53" height="50"/>
-  
-  <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-192x256-f7njvutg.png" title="Power BI" alt="Power BI" width="40" height="50"/>
-
-  <img src="https://static.vecteezy.com/system/resources/previews/022/841/109/non_2x/chatgpt-logo-transparent-background-free-png.png" alt="ChatGPT" width="50" height="50"/>
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" title="Excel" alt="Excel" width="53" height="50"/>  <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-192x256-f7njvutg.png" title="Power BI" alt="Power BI" width="40" height="50"/>  <img src="https://static.vecteezy.com/system/resources/previews/022/841/109/non_2x/chatgpt-logo-transparent-background-free-png.png" alt="ChatGPT" width="50" height="50"/>
 </p>
 
----
+---   
 
 ## 📊 **Estadísticas de GitHub**
 <p align="center">
