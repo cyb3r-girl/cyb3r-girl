@@ -8,11 +8,11 @@
 
 ---
 
-## 🌸 **Sobre Mí**
-- 🎓 Soy estudiante de **Ingeniería de Sistemas e Informática** y formo parte del programa **G8 - ONE (Oracle Next Education)**.  
-- 💡 Me apasiona la **seguridad informática, la inteligencia artificial y la ciencia de datos**.  
-- 🛠️ Actualmente, estoy profundizando mis conocimientos en **JavaScript, HTML, CSS, SQL, Python, R, Power BI** para mejorar mis habilidades en análisis de datos y desarrollo de software.
-- 🎯 Me encanta la tecnología y cómo puede utilizarse para crear soluciones innovadoras.  
+## 🙋🏻‍♀️ **Sobre Mí**
+- 🎓 Soy estudiante de **Ingeniería de Sistemas e Informática** y formo parte del programa **G8 - ONE (Oracle Next Education)** en Alura Latam.  
+- 💡 Me apasiona la **tecnología, la inteligencia artificial y la ciencia de datos**.  
+- 🛠️ Actualmente, estoy profundizando mis conocimientos en **JavaScript, HTML, CSS, SQL, Python, R, Power BI y Excel** para mejorar mis habilidades en análisis de datos y desarrollo de software.
+- 🎯 Practico el aprendizaje continuo y la autonomía, consciente de que el entorno tecnológico avanza a gran velocidad y exige estar siempre a la vanguardia.
 - 🎮 En mi tiempo libre, disfruto jugar **Minecraft, Roblox y Left4Dead2**, además de participar en comunidades tecnológicas.  
 
 ---
@@ -28,6 +28,18 @@
 - ✅ **HTML y CSS: Clases, Posicionamiento y Flexbox** – [Ver Certificado](#)
 - ✅ **HTML y CSS: header, footer y variables CSS** – [Ver Certificado](#)
 - ✅ **HTML y CSS: trabajando con responsividad y publicación de proyectos** – [Ver Certificado](#)  
+
+## 📜 Cursos y Certificaciones  
+📚 A lo largo de mi aprendizaje, he reforzado mis habilidades en **desarrollo web, programación en JavaScript, control de versiones y herramientas de inteligencia artificial** a través de diversos cursos. Algunos de ellos incluyen:  
+
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**Lógica de programación: sumérgete en la programación con JavaScript**](https://app.aluracursos.com/user/cyb3r-girl/course/logica-programacion-sumergete-programacion-javascript/certificate)  
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**Lógica de programación: explorar funciones y listas**](#)  
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**Git y GitHub: repositorio, commit y versiones**](https://app.aluracursos.com/user/cyb3r-girl/course/git-github-repositorio-commit-versiones/certificate)  
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**ChatGPT: optimizando la calidad de los resultados**](#)  
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**HTML y CSS: ambientes de desarrollo, estructura de archivos y tags**](#)  
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**HTML y CSS: Clases, Posicionamiento y Flexbox**](#)  
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**HTML y CSS: header, footer y variables CSS**](#)  
+- ![Alura](https://www.aluracursos.com/assets/img/alura-share.1686744880.png) [**HTML y CSS: trabajando con responsividad y publicación de proyectos**](#)
 
 ---
 
