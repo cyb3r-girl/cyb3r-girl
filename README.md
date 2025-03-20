@@ -20,26 +20,14 @@
 ## 📜 Cursos y Certificaciones  
 📚 A lo largo de mi aprendizaje, he reforzado mis habilidades en **desarrollo web, programación en JavaScript, control de versiones y herramientas de inteligencia artificial** a través de diversos cursos. Algunos de ellos incluyen:  
 
-- ✅ **Lógica de programación: sumérgete en la programación con JavaScript** – [Ver Certificado](https://app.aluracursos.com/user/cyb3r-girl/course/logica-programacion-sumergete-programacion-javascript/certificate)  
-- ✅ **Lógica de programación: explorar funciones y listas** – [Ver Certificado](#)  
-- ✅ **Git y GitHub: repositorio, commit y versiones** – [Ver Certificado](https://app.aluracursos.com/user/cyb3r-girl/course/git-github-repositorio-commit-versiones/certificate)  
-- ✅ **ChatGPT: optimizando la calidad de los resultados** – [Ver Certificado](#)  
-- ✅ **HTML y CSS: ambientes de desarrollo, estructura de archivos y tags** – [Ver Certificado](#)
-- ✅ **HTML y CSS: Clases, Posicionamiento y Flexbox** – [Ver Certificado](#)
-- ✅ **HTML y CSS: header, footer y variables CSS** – [Ver Certificado](#)
-- ✅ **HTML y CSS: trabajando con responsividad y publicación de proyectos** – [Ver Certificado](#)  
-
-## 📜 Cursos y Certificaciones  
-📚 A lo largo de mi aprendizaje, he reforzado mis habilidades en **desarrollo web, programación en JavaScript, control de versiones y herramientas de inteligencia artificial** a través de diversos cursos. Algunos de ellos incluyen:  
-
 - <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**Lógica de programación: sumérgete en la programación con JavaScript**](https://app.aluracursos.com/user/cyb3r-girl/course/logica-programacion-sumergete-programacion-javascript/certificate)  
-- <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**Lógica de programación: explorar funciones y listas**](#)  
-- <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**Git y GitHub: repositorio, commit y versiones**](https://app.aluracursos.com/user/cyb3r-girl/course/git-github-repositorio-commit-versiones/certificate)  
-- <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**ChatGPT: optimizando la calidad de los resultados**](#)  
-- <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**HTML y CSS: ambientes de desarrollo, estructura de archivos y tags**](#)  
-- <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**HTML y CSS: Clases, Posicionamiento y Flexbox**](#)  
-- <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**HTML y CSS: header, footer y variables CSS**](#)  
-- <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**HTML y CSS: trabajando con responsividad y publicación de proyectos**](#)
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**Lógica de programación: explorar funciones y listas**](https://app.aluracursos.com/user/cyb3r-girl/course/logica-programacion-explorar-funciones-listas/certificate)  
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**Git y GitHub: repositorio, commit y versiones**](https://app.aluracursos.com/user/cyb3r-girl/course/git-github-repositorio-commit-versiones/certificate)  
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**ChatGPT: optimizando la calidad de los resultados**](https://app.aluracursos.com/user/cyb3r-girl/course/chatgpt-optimizando-calidad-resultados/certificate)  
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**HTML y CSS: ambientes de desarrollo, estructura de archivos y tags**](https://app.aluracursos.com/user/cyb3r-girl/course/html-css-desarrollo-estructura-archivos-tags/certificate)  
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**HTML y CSS: Clases, Posicionamiento y Flexbox**](https://app.aluracursos.com/user/cyb3r-girl/course/html-css-clases-posicionamiento-flexbox/certificate)  
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**HTML y CSS: header, footer y variables CSS**](https://app.aluracursos.com/user/cyb3r-girl/course/html-css-header-footer-variables-css/certificate)  
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**HTML y CSS: trabajando con responsividad y publicación de proyectos**](https://app.aluracursos.com/user/cyb3r-girl/course/html-css-trabajando-responsividad-publicacion-proyectos/certificate)
 
 ---
 
