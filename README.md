@@ -32,8 +32,7 @@
 ## 📜 Cursos y Certificaciones  
 📚 A lo largo de mi aprendizaje, he reforzado mis habilidades en **desarrollo web, programación en JavaScript, control de versiones y herramientas de inteligencia artificial** a través de diversos cursos. Algunos de ellos incluyen:  
 
-- <img src="![images](https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065)
-" width="20"> [**Lógica de programación: sumérgete en la programación con JavaScript**](https://app.aluracursos.com/user/cyb3r-girl/course/logica-programacion-sumergete-programacion-javascript/certificate)  
+- <img src="https://github.com/user-attachments/assets/23a4dbad-b081-4399-af1a-a30f90889065" width="20"> [**Lógica de programación: sumérgete en la programación con JavaScript**](https://app.aluracursos.com/user/cyb3r-girl/course/logica-programacion-sumergete-programacion-javascript/certificate)  
 - <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**Lógica de programación: explorar funciones y listas**](#)  
 - <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**Git y GitHub: repositorio, commit y versiones**](https://app.aluracursos.com/user/cyb3r-girl/course/git-github-repositorio-commit-versiones/certificate)  
 - <img src="https://www.aluracursos.com/assets/img/alura-share.1686744880.png" width="20"> [**ChatGPT: optimizando la calidad de los resultados**](#)  
