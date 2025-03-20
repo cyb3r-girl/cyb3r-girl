@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, a tod@s! ¡Bienvenidos a mi GitHub! 🙋🏻‍♀️✨</h1>
+<h1 align="center">¡Hola, a tod@s! ¡Bienvenidos a mi GitHub! 👩🏻‍💻🌐</h1>
 <!-- Encabezado con imagen personalizada -->
 <p align="center">
   <img src="https://i.pinimg.com/1200x/e0/cb/31/e0cb31a20a9a52ece225d83d3d685140.jpg" alt="Banner Personalizado" width="900px"/>
