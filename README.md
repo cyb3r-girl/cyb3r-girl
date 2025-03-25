@@ -39,17 +39,37 @@
 ---
 
 ## 📊 **Estadísticas de GitHub**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyb3r-girl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyb3r-girl&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r-girl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyb3r-girl&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r-girl&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cyb3r-girl&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---
 
 ## 🌟 **Proyectos Destacados**
-📌 **[Proyecto 1 - Juego "Adivina el número secreto"](https://github.com/cyb3r-girl/proyecto1)**  
-📌 **[Proyecto 2 - Challenge "Amigo secreto"](https://github.com/cyb3r-girl/proyecto2)**
+
+<table>
+  <tr>
+    <th>Juego del Número Secreto</th>
+    <th>Challenge del Amigo Secreto</th>
+    <th>Portafolio Profesional</th>
+  </tr>
+  <tr>
+    <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_1" width="200"></td>
+    <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_2" width="200"></td>
+    <td><img src="URL_DE_LA_IMAGEN_DEL_PROYECTO_3" width="200"></td>
+  </tr>
+  <tr>
+    <td>➮ Un juego interactivo en el que los jugadores intentan adivinar un número secreto dentro de un rango determinado.<br>🔗 <a href="https://github.com/cyb3r-girl/proyecto1">Ver repositorio del proyecto</a></td>
+    <td>➮ Una aplicación web para organizar intercambios de regalos de manera automática y aleatoria.<br>🔗 <a href="https://github.com/cyb3r-girl/challenge-amigo-secreto.git">Ver repositorio del proyecto</a></td>
+    <td>➮ Breve descripción del Proyecto 3.<br>🔗 <a href="https://github.com/cyb3r-girl/proyecto3">Ver repositorio del proyecto</a></td>
+  </tr>
+</table>
 
 ---
 
@@ -61,11 +81,11 @@
   <a href="https://github.com/cyb3r-girl" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:astridquisel.s2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-✨ _“La tecnología es el arte de transformar ideas en realidad.”_ ✨
+_"La tecnología es la magia que convierte ideas en innovación y código en realidad."_ 💻✨
